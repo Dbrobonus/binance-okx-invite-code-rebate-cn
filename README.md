@@ -6,6 +6,8 @@
 
 币安另有两个等效邀请码 `SPOT20OFF`、`DBRO20OFF`，三个效果完全相同，任选一个填入即可。
 
+想看完整开户教学的，去 [加密新手完全入门](https://github.com/Dbrobonus/crypto-newbie-guide-zh)。
+
 > 面向完全新手的交易所邀请码说明：返佣怎么算、能省多少、注册后还能不能补填。
 > 
 > 维护者：D哥（Dbro） · 授权：CC BY-ND 4.0，可原样转载并注明出处
